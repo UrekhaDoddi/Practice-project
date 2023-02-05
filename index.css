@@ -1,0 +1,17 @@
+body {
+  background-image:url("https://www.teahub.io/photos/full/18-180656_1920x1080-movie-making-wallpaper-movie-film-video-film.jpg");
+  margin: 20;
+  padding: 30px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
